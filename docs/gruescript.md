@@ -519,7 +519,7 @@ while the thing is carried, but they *can* be activated by a
 setverb while it is *not* carried.) Either of these, like tags,
 can be declared over multiple  lines if necessary.
 
-Any thing block can contain `verbs` lines, `cverbs` lines, or both, but
+Any `thing` block can contain `verbs` lines, `cverbs` lines, or both, but
 it is more usual for portable things to have carried verbs and
 non-portable things to have permanent verbs. For example, it makes
 sense that a warning sign on the wall of a room
